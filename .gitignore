@@ -1,0 +1,6 @@
+.env
+.venv/
+__pycache__/
+vector_store/
+PROJECT_GUIDE_Version2.md
+interview_QA_guide.txt
